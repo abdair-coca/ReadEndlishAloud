@@ -1172,8 +1172,7 @@
 
   <script>
     // ── Config ─────────────────────────────────────────────────
-    const API_KEY = 'csk-6pknmv6dprrrmrkxmdndrkhtr96cjpxhn29cm4er6jwhdtr6';
-    const API_URL = 'https://api.cerebras.ai/v1/chat/completions';
+    const API_URL = '/api/generate';
 
     // ── State ──────────────────────────────────────────────────
     let selectedGenre = 'Adventure';
@@ -1253,7 +1252,6 @@ Only the title line, the divider "---", and the story paragraphs. No preamble or
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
-            'Authorization': `Bearer ${API_KEY}`
           },
           body: JSON.stringify({
             model: 'llama3.1-8b',
