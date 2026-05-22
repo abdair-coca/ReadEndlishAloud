@@ -1,0 +1,94 @@
+<svg width="100%" viewBox="0 0 680 240" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>EnglishAloud</title>
+  <desc>Brand banner for EnglishAloud — AI-Powered English Reading Practice</desc>
+
+  <rect width="680" height="240" fill="#0B0A18"/>
+
+  <circle cx="340" cy="120" r="200" fill="#151230" opacity="0.8"/>
+  <circle cx="340" cy="120" r="130" fill="#1E1A45" opacity="0.7"/>
+  <circle cx="340" cy="120" r="75"  fill="#2A2560" opacity="0.5"/>
+
+  <ellipse cx="100" cy="120" rx="90" ry="60" fill="#1A163A" opacity="0.4"/>
+  <ellipse cx="580" cy="120" rx="90" ry="60" fill="#1A163A" opacity="0.4"/>
+
+  <circle cx="340" cy="120" r="160" fill="none" stroke="#3B3580" stroke-width="0.5" opacity="0.35"/>
+  <circle cx="340" cy="120" r="200" fill="none" stroke="#2A2560" stroke-width="0.5" opacity="0.2"/>
+  <circle cx="340" cy="120" r="108" fill="none" stroke="#4A45A0" stroke-width="0.5" opacity="0.3"/>
+
+  <path d="M20 20 L20 8 L32 8"    fill="none" stroke="#3B3580" stroke-width="1" opacity="0.6"/>
+  <path d="M660 20 L660 8 L648 8" fill="none" stroke="#3B3580" stroke-width="1" opacity="0.6"/>
+  <path d="M20 220 L20 232 L32 232"    fill="none" stroke="#3B3580" stroke-width="1" opacity="0.6"/>
+  <path d="M660 220 L660 232 L648 232" fill="none" stroke="#3B3580" stroke-width="1" opacity="0.6"/>
+
+  <line x1="30"  y1="118" x2="205" y2="118" stroke="#3B3580" stroke-width="0.5" opacity="0.5"/>
+  <line x1="475" y1="118" x2="650" y2="118" stroke="#3B3580" stroke-width="0.5" opacity="0.5"/>
+  <line x1="30"  y1="114" x2="30"  y2="122" stroke="#4A45A0" stroke-width="0.8" opacity="0.5"/>
+  <line x1="650" y1="114" x2="650" y2="122" stroke="#4A45A0" stroke-width="0.8" opacity="0.5"/>
+
+  <circle cx="55"  cy="45"  r="1.5" fill="#9B90FF" opacity="0.5"/>
+  <circle cx="90"  cy="190" r="1"   fill="#7B70FF" opacity="0.4"/>
+  <circle cx="140" cy="70"  r="1"   fill="#C0B8FF" opacity="0.3"/>
+  <circle cx="170" cy="200" r="1.5" fill="#9B90FF" opacity="0.35"/>
+  <circle cx="60"  cy="155" r="1"   fill="#7B70FF" opacity="0.3"/>
+  <circle cx="115" cy="120" r="1.2" fill="#C0B8FF" opacity="0.25"/>
+  <circle cx="625" cy="45"  r="1.5" fill="#9B90FF" opacity="0.5"/>
+  <circle cx="590" cy="190" r="1"   fill="#7B70FF" opacity="0.4"/>
+  <circle cx="540" cy="70"  r="1"   fill="#C0B8FF" opacity="0.3"/>
+  <circle cx="510" cy="205" r="1.5" fill="#9B90FF" opacity="0.35"/>
+  <circle cx="620" cy="155" r="1"   fill="#7B70FF" opacity="0.3"/>
+  <circle cx="565" cy="118" r="1.2" fill="#C0B8FF" opacity="0.25"/>
+  <circle cx="340" cy="22"  r="1.2" fill="#9B90FF" opacity="0.3"/>
+  <circle cx="240" cy="35"  r="1"   fill="#7B70FF" opacity="0.25"/>
+  <circle cx="440" cy="30"  r="1"   fill="#7B70FF" opacity="0.25"/>
+
+  <rect x="28" y="74" width="88" height="46" rx="8" fill="#131228" stroke="#2A2660" stroke-width="0.8" opacity="0.9"/>
+  <text x="44" y="93" font-family="system-ui,sans-serif" font-size="15" fill="#9B90FF" opacity="0.8">🚀</text>
+  <text x="64" y="90" font-family="system-ui,sans-serif" font-size="8" fill="#7B79B0">Sci-Fi</text>
+  <text x="64" y="102" font-family="system-ui,sans-serif" font-size="7" fill="#4A4870">B2 · Medium</text>
+  <rect x="36" y="107" width="72" height="3" rx="1.5" fill="#1C1B35"/>
+  <rect x="36" y="107" width="44" height="3" rx="1.5" fill="#5B4FCA" opacity="0.7"/>
+
+  <rect x="42" y="134" width="74" height="30" rx="7" fill="#0F0E22" stroke="#2A2660" stroke-width="0.8" opacity="0.7"/>
+  <text x="56" y="148" font-family="system-ui,sans-serif" font-size="12" fill="#9B90FF" opacity="0.6">📖</text>
+  <text x="74" y="146" font-family="system-ui,sans-serif" font-size="7.5" fill="#5A5880">Adventure</text>
+  <text x="74" y="157" font-family="system-ui,sans-serif" font-size="7" fill="#3A3860">A2 · Short</text>
+
+  <rect x="564" y="74" width="88" height="46" rx="8" fill="#131228" stroke="#2A2660" stroke-width="0.8" opacity="0.9"/>
+  <text x="578" y="93" font-family="system-ui,sans-serif" font-size="15" fill="#9B90FF" opacity="0.8">🔮</text>
+  <text x="600" y="90" font-family="system-ui,sans-serif" font-size="8" fill="#7B79B0">Fantasy</text>
+  <text x="600" y="102" font-family="system-ui,sans-serif" font-size="7" fill="#4A4870">C1 · Long</text>
+  <rect x="572" y="107" width="72" height="3" rx="1.5" fill="#1C1B35"/>
+  <rect x="572" y="107" width="58" height="3" rx="1.5" fill="#5B4FCA" opacity="0.7"/>
+
+  <rect x="564" y="134" width="74" height="30" rx="7" fill="#0F0E22" stroke="#2A2660" stroke-width="0.8" opacity="0.7"/>
+  <text x="578" y="148" font-family="system-ui,sans-serif" font-size="12" fill="#9B90FF" opacity="0.6">🕵</text>
+  <text x="598" y="146" font-family="system-ui,sans-serif" font-size="7.5" fill="#5A5880">Mystery</text>
+  <text x="598" y="157" font-family="system-ui,sans-serif" font-size="7" fill="#3A3860">B1 · Medium</text>
+
+  <rect x="308" y="42" width="64" height="64" rx="16" fill="#5B4FCA"/>
+  <rect x="312" y="46" width="56" height="56" rx="13" fill="#6B5FD8" opacity="0.5"/>
+  <text x="340" y="86" text-anchor="middle" font-family="system-ui,sans-serif" font-size="30" fill="#FFFFFF">📖</text>
+
+  <text x="340" y="140" text-anchor="middle" font-family="Georgia,serif" font-size="32" font-weight="700" fill="#EEEEFF" letter-spacing="-0.5">English<tspan fill="#9B90FF">Aloud</tspan></text>
+
+  <text x="340" y="162" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#5A5880" letter-spacing="2">AI-POWERED ENGLISH READING PRACTICE</text>
+
+  <circle cx="316" cy="174" r="1.5" fill="#3B3580" opacity="0.7"/>
+  <circle cx="340" cy="174" r="1.5" fill="#5B4FCA" opacity="0.9"/>
+  <circle cx="364" cy="174" r="1.5" fill="#3B3580" opacity="0.7"/>
+
+  <rect x="196" y="186" width="70" height="22" rx="11" fill="#161530" stroke="#2A2660" stroke-width="0.8"/>
+  <text x="231" y="201" text-anchor="middle" font-family="system-ui,sans-serif" font-size="8.5" fill="#7B79B0">8 Genres</text>
+
+  <rect x="275" y="186" width="90" height="22" rx="11" fill="#1E1A45" stroke="#4A45A0" stroke-width="0.8"/>
+  <text x="320" y="201" text-anchor="middle" font-family="system-ui,sans-serif" font-size="8.5" fill="#A09FD0" font-weight="500">6 CEFR Levels</text>
+
+  <rect x="374" y="186" width="78" height="22" rx="11" fill="#161530" stroke="#2A2660" stroke-width="0.8"/>
+  <text x="413" y="201" text-anchor="middle" font-family="system-ui,sans-serif" font-size="8.5" fill="#7B79B0">Cerebras AI</text>
+
+  <circle cx="15" cy="228" r="3" fill="#22C55E" opacity="0.8"/>
+  <text x="22" y="232" font-family="system-ui,sans-serif" font-size="7.5" fill="#3A3860">englishaloud.vercel.app</text>
+
+  <circle cx="630" cy="18" r="3.5" fill="#22C55E" opacity="0.8"/>
+  <text x="618" y="22" text-anchor="end" font-family="system-ui,sans-serif" font-size="7.5" fill="#3A3860">Cerebras AI</text>
+</svg>

@@ -1,7 +1,7 @@
 # 📖 EnglishAloud
 
 <p align="center">
-  <img src="docs/assets/banner.png" alt="EnglishAloud Banner" width="100%" />
+  <img src="docs/assets/banner.svg" alt="EnglishAloud Banner" width="100%" />
 </p>
 
 <p align="center">
